@@ -1,4 +1,4 @@
-package src.main.java.rmuti;
+package rmuti;
 import java.util.Scanner;
 public class TailEven {
     public static void main(String[] args) {
